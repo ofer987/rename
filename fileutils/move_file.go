@@ -1,4 +1,4 @@
-package rename
+package fileutils
 
 import (
 	"io/ioutil"
